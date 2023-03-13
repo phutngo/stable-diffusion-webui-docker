@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "paperspace-node": "^0.2.4"
+  }
+}
